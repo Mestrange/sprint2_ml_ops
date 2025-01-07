@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/sprint2_ml_ops/mlruns/0/78fa4a36d21247819e5457d0befaebca/artifacts
+end_time: 1735220734172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78fa4a36d21247819e5457d0befaebca
+run_name: model_reg
+run_uuid: 78fa4a36d21247819e5457d0befaebca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735220734158
+status: 4
+tags: []
+user_id: mle-user
